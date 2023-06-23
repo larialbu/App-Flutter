@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "266707017893",
+    "project_id": "health-tracker-478aa",
+    "storage_bucket": "health-tracker-478aa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266707017893:android:adb3b9a2bc88eb3c1c6d4c",
+        "android_client_info": {
+          "package_name": "HealtTracker.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266707017893-nom1eu6nhsoc9b5gre8d0m3t7p8f57p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp7T7ml9FniZiecpGJUiS0bPLObEADZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266707017893-nom1eu6nhsoc9b5gre8d0m3t7p8f57p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266707017893:android:e9c921be5cf0a0071c6d4c",
+        "android_client_info": {
+          "package_name": "com.example.telahome"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266707017893-nom1eu6nhsoc9b5gre8d0m3t7p8f57p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp7T7ml9FniZiecpGJUiS0bPLObEADZAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266707017893-nom1eu6nhsoc9b5gre8d0m3t7p8f57p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
